@@ -1,2 +1,6 @@
 # TendeGraphRAG
-This project use to show TenderGraphRAG's original datasets (partly). 
+This repository serves as a companion resource to the paper "TenderGraphRAG:An Enhancement Framework for Question Answering Systems Based on a Tendering and Bidding Knowledge Graph". Its primary purpose is to provide representative data samples and illustrate their internal structure as used in our research. It aims to help researchers and developers gain a more intuitive understanding of the dataset characteristics, knowledge graph structure, and the various data formats processed within our RAG (Retrieval Augmented Generation) system, specifically tailored for the tendering and bidding domain.
+
+
+For reasons of privacy, copyright, and other considerations, the complete dataset cannot be disclosed at this time.  In the data_examples folder, we are providing some samples of the original source documents and Q&A pairs used to build the RAG system.
+
